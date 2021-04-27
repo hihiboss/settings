@@ -78,6 +78,14 @@ plugins=(
  autojump
  kubectl
  docker
+ brew
+ node
+ osx
+ ripgrep
+ alias-tips
+ fzf
+ gradle
+ zsh-interactive-cd
 )
 
 source $ZSH/oh-my-zsh.sh
